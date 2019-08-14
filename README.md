@@ -1,2 +1,2 @@
 # fm
-teching material fm
+teaching material fm
